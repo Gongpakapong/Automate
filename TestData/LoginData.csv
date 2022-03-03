@@ -1,0 +1,8 @@
+﻿;${username};${password};[Documentation];
+;adm@yourstone.com;xyz;Login was unsuccessful.;
+;admin@yourstone.com;xyz;Login was unsuccessful.;
+;${EMPTY};admin;Please enter your email;
+;admin@yourstone.com;${EMPTY};Login was unsuccessful.;
+;${EMPTY};${EMPTY};Please enter your email;
+;adm@yourstone.com;admin;Login was unsuccessful.;
+;adm@yourstone.com;${EMPTY};Login was unsuccessful.;
